@@ -7,7 +7,7 @@
 
 **2.** ¿Cuál(es) gene(s) han sido relacionados con esta enfermedad?
 
-Hasta el momento solo se a encontrado un gen denominado (HTT) según [OMIM](http://www.omim.org/entry/143100?search=genetic%20disease&highlight=genetic%20disease).
+*-* Hasta el momento solo se a encontrado un gen denominado (HTT) según [OMIM](http://www.omim.org/entry/143100?search=genetic%20disease&highlight=genetic%20disease).
 		
 **3.** ¿Tiene nombres alternativos el gen? ¿Cuáles? 
 
