@@ -113,14 +113,23 @@
 **22.** Escribe 10 categorías GO a la cual GO:0006096 pertenece. 
 
 **1)** Proceso glucolítico de sacarosa
+
 **2)** proceso glucolítico de glicerol
+
 **3)** Proceso glucolítico a través de fructosa-1-fosfato
+
 **4)** Actividad piruvato quinasa 
+
 **5)** Regulación positiva del proceso glucolítico
+
 **6)** Proceso glucolítico a través de fructosa-6-fosfato
+
 **7)** Regulación negativa del proceso glucolítico
+
 **8)** Regulación del proceso glucolítico por regulación positiva de la transcripción del promotor de la RNA polimerasa II
+
 **9)** Regulación del proceso glucolítico
+
 **10)** Regulación del proceso glucolítico por regulación de la transcripción del promotor de la ARN polimerasa II
 
 ---
