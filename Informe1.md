@@ -178,24 +178,26 @@
 			
 **31.** ¿Son los resultados idénticos o no?
 
-*-*
+*-* No, no son identicos ya que al agregarles las comillas los datos de busquedas son mas especificos relacioinado a un tema.
 
 **32.** ¿En qué cambiaron los resultados de la búsqueda?
 
-*-*
+*-* Al adicioinar el asterisco en la busqueda cambia a relacionar una frase con lo que estamos buscando.
 
 **33.** ¿Qué encuentras en los resultados? Prueba sin el rango también.
 
-*-*
+*-* Se encunetran resultados relacionados dentro del rango que uno  adiciona.
 
 **34.** Describe tus resultados.
 
-*-*
+*-* Cuando se adiciona filetype:pdf a lo que estamos investigando, se generan busquedas restringidas y  especificadas en formato PDF.
 
 **35.** ¿En qué cambian los resultados de la búsqueda?
 
-*-*
+*-* Si, al adicionar (+ o -) generan busquedas relacionadas con temperaturas altas o bajas haciendo que la busqueda sea mas eficaz.
 
 **36.** De nuevo, ¿en qué cambian los resultados de la búsqueda?
 
-*-*
+*-* Soil OR Human pathogens: en esta busqueda se encuentran archivos que contangan la palabra Soil o Human, lo cual no es necesario que esten relacionadas en el archivo.
+
+*-* Soil AND Human pathogens: en esta busqueda se encuentran archivos que conetngas las dos palabras (Soil y Human).
