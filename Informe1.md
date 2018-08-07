@@ -92,7 +92,7 @@
 
 **17.** Escoge una ruta metabólica y seleccionala para ver el diagrama correspondiente, toma una captura de pantalla e incluyela en tu informe.
 
-*-*
+*-* ![Ruta](https://github.com/CamilaFrancisca/Laboratorio/blob/master/pregunta%2017.png)
 
 **18.** ¿Qué significan los cuadros verdes en el diagrama? 
 
