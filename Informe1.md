@@ -74,7 +74,7 @@
 
 *-* Se encuentra en las siguientes bases de datos, segun la base de datos de [KEGG](https://www.kegg.jp/dbget-bin/www_bget?hsa:htt):
 
-⋅⋅* NCBI-GeneID: 3064; NCBI-ProteinID: NP_002102; OMIM: 613004; HGNC: 4851; Ensembl: ENSG00000197386; Vega: OTTHUMG00000159916; Pharos: P42858( Tchem); UniProt: P42858.
+*..* NCBI-GeneID: 3064; NCBI-ProteinID: NP_002102; OMIM: 613004; HGNC: 4851; Ensembl: ENSG00000197386; Vega: OTTHUMG00000159916; Pharos: P42858( Tchem); UniProt: P42858.
 
 
 **17.** Escoge una ruta metabólica y seleccionala para ver el diagrama correspondiente, toma una captura de pantalla e incluyela en tu informe.
