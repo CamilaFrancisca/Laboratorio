@@ -92,7 +92,7 @@
 
 **17.** Escoge una ruta metabólica y seleccionala para ver el diagrama correspondiente, toma una captura de pantalla e incluyela en tu informe.
 
-*-* ![Ruta](https://github.com/CamilaFrancisca/Laboratorio/blob/master/pregunta%2017.png)
+![Ruta](https://github.com/CamilaFrancisca/Laboratorio/blob/master/pregunta%2017.png)
 
 **18.** ¿Qué significan los cuadros verdes en el diagrama? 
 
@@ -147,11 +147,11 @@
 
 **27.** Descarga la secuencia en formato FASTA.
 
-*-* Secuencia [Fasta]
+![Fasta](https://github.com/CamilaFrancisca/Laboratorio/blob/master/sequence%20fasta.fasta)
 
 **28.** Adjunta la secuencia en formato NEXUS a tu informe.
 
-*-* Secuencua [Nexus]
+![Nexus](https://github.com/CamilaFrancisca/Laboratorio/blob/master/sequence%20nexus.txt)
 
 ---
 
@@ -161,11 +161,11 @@
 
 **29.** En tu informe, incluye una captura de pantalla de tu alerta. Si es que recibes una alerta en tu correo electrónico, también puedes adjuntarla en tu informe.
 
-*-* Alerta NCBI
+![NCBI](https://github.com/CamilaFrancisca/Laboratorio/blob/master/NCBI%20alert.png)
 
 **30.** En tu informe agrega una captura de pantalla de tu suscripción o del correo electrónico de confirmación.
 
-*-* Suscripcion Nature
+![Nature](https://github.com/CamilaFrancisca/Laboratorio/blob/master/Nature.png)
 			
 **31.** ¿Son los resultados idénticos o no?
 
