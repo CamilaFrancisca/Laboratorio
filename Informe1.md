@@ -29,6 +29,7 @@
 **7.** ¿Qué genes están inmediatamente río arriba/abajo? 
 
 *-* Rio arriba: HTT, RNUG- 204P , LOC109461479, HTT-AS, RNU7-33P
+
 *-* Rio abajo: RGS12, MSANTD1, RPL7AP29, LOC100286945
 
 **8.** ¿Cuál es la longitud de tu gen?
