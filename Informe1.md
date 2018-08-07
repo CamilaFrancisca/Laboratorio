@@ -92,16 +92,36 @@
 
 **17.** Escoge una ruta metabólica y seleccionala para ver el diagrama correspondiente, toma una captura de pantalla e incluyela en tu informe.
 
+*-*
+
 **18.** ¿Qué significan los cuadros verdes en el diagrama? 
 
-**19.** ¿Con qué otra(s) ruta(s) se cruza la ruta metabólica que escogiste? 
+*-* Representan rutas moleculares para el metabolismo, procesamiento de información genética, procesamiento de información ambiental, procesos celulares, sistemas orgánicos, enfermedades humanas y desarrollo de fármacos. Referenciados por [KEGG](https://www.kegg.jp/kegg/document/help_pathway.html)
 
-**20.** ¿Cuáles son las principales ontologías o dominios que conforman Gene Ontology?  
+**19.** ¿Con qué otra(s) ruta(s) se cruza la ruta metabólica que escogiste?
+
+*-*
+
+**20.** ¿Cuáles son las principales ontologías o dominios que conforman Gene Ontology?
+
+*-* Las mas principales son las funciones moleulares, componentes celulales y procesos biologicos
 
 **21.** ¿A qué corresponde este término y qué otra información te entrega la página? 
-Corresponde al proceso glicolítico 
+
+*-* Corresponde al proceso glucolítico
 
 **22.** Escribe 10 categorías GO a la cual GO:0006096 pertenece. 
+
+**1)** Proceso glucolítico de sacarosa
+**2)** proceso glucolítico de glicerol
+**3)** Proceso glucolítico a través de fructosa-1-fosfato
+**4)** Actividad piruvato quinasa 
+**5)** Regulación positiva del proceso glucolítico
+**6)** Proceso glucolítico a través de fructosa-6-fosfato
+**7)** Regulación negativa del proceso glucolítico
+**8)** Regulación del proceso glucolítico por regulación positiva de la transcripción del promotor de la RNA polimerasa II
+**9)** Regulación del proceso glucolítico
+**10)** Regulación del proceso glucolítico por regulación de la transcripción del promotor de la ARN polimerasa II
 
 ---
 
@@ -110,16 +130,28 @@ Corresponde al proceso glicolítico
 ---
 
 **23.** ¿Cuántos items fueron encontrados? ¿cuántos en animales? 
+
+*-* Se escontraron 72815 items en total y de animales 14113 items.
 		
 **24.** ¿Cuál es la longitud del gen? 
-		
+
+*-* La longitud del gen es de 1320 pb
+
 **25.** ¿Cuál es la referencia bibliográfica más reciente? 
+ 
+ *-* La referencia mas reciente es de [PLoS One](https://www.ncbi.nlm.nih.gov/pubmed/29494608) hecha el 01 marzo del 2018;
 
 **26.** ¿Cuál es el número de acceso?
 
-**27.** Descarga la secuencia en formato FASTA. 
+*-* El numero de acceso es NM_001115114.1
+
+**27.** Descarga la secuencia en formato FASTA.
+
+*-* Secuencia [Fasta]
 
 **28.** Adjunta la secuencia en formato NEXUS a tu informe.
+
+*-* Secuencua [Nexus]
 
 ---
 
@@ -129,16 +161,32 @@ Corresponde al proceso glicolítico
 
 **29.** En tu informe, incluye una captura de pantalla de tu alerta. Si es que recibes una alerta en tu correo electrónico, también puedes adjuntarla en tu informe.
 
+*-* Alerta NCBI
+
 **30.** En tu informe agrega una captura de pantalla de tu suscripción o del correo electrónico de confirmación.
+
+*-* Suscripcion Nature
 			
 **31.** ¿Son los resultados idénticos o no?
 
+*-*
+
 **32.** ¿En qué cambiaron los resultados de la búsqueda?
+
+*-*
 
 **33.** ¿Qué encuentras en los resultados? Prueba sin el rango también.
 
+*-*
+
 **34.** Describe tus resultados.
+
+*-*
 
 **35.** ¿En qué cambian los resultados de la búsqueda?
 
+*-*
+
 **36.** De nuevo, ¿en qué cambian los resultados de la búsqueda?
+
+*-*
