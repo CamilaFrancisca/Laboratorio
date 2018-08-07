@@ -74,19 +74,19 @@
 
 *-* Se encuentra en las siguientes bases de datos, segun la base de datos de [KEGG](https://www.kegg.jp/dbget-bin/www_bget?hsa:htt):
 
-**a** NCBI-GeneID: 3064
+**a)** NCBI-GeneID: 3064
 
-**b** NCBI-ProteinID: NP_002102
+**b)** NCBI-ProteinID: NP_002102
 
-**c** OMIM: 613004; HGNC: 4851
+**c)** OMIM: 613004; HGNC: 4851
 
-**d** Ensembl: ENSG00000197386 
+**d)** Ensembl: ENSG00000197386 
 
-**e** Vega: OTTHUMG00000159916 
+**e)** Vega: OTTHUMG00000159916 
 
-**f** Pharos: P42858( Tchem) 
+**f)** Pharos: P42858( Tchem) 
 
-**g** UniProt: P42858
+**g)** UniProt: P42858
 
 
 
