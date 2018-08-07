@@ -1,4 +1,5 @@
-## Parte 1: Enfermedades genéticas y genes.
+### Parte 1: Enfermedades genéticas y genes.
+
 ---
 
 **1.** Nombra y describe brevemente la enfermedad que escogiste, qué la causa y cuáles son sus consecuencias.
@@ -53,7 +54,7 @@
 
 ---
 
-## Parte 2: Rutas y procesos metabólicos
+### Parte 2: Rutas y procesos metabólicos
 
 ---
 
