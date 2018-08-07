@@ -147,11 +147,11 @@
 
 **27.** Descarga la secuencia en formato FASTA.
 
-![Fasta](https://github.com/CamilaFrancisca/Laboratorio/blob/master/sequence%20fasta.fasta)
+*-* Secuencia [Fasta](https://github.com/CamilaFrancisca/Laboratorio/blob/master/sequence%20fasta.fasta)
 
 **28.** Adjunta la secuencia en formato NEXUS a tu informe.
 
-![Nexus](https://github.com/CamilaFrancisca/Laboratorio/blob/master/sequence%20nexus.txt)
+*-* Secuencia [Nexus](https://github.com/CamilaFrancisca/Laboratorio/blob/master/sequence%20nexus.txt)
 
 ---
 
