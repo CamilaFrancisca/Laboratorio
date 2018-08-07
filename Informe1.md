@@ -1,5 +1,4 @@
 ## Parte 1: Enfermedades genéticas y genes.
-
 ---
 
 **1.** Nombra y describe brevemente la enfermedad que escogiste, qué la causa y cuáles son sus consecuencias.
