@@ -34,7 +34,7 @@
 
 **8.** ¿Cuál es la longitud de tu gen?
 
-*-*
+*-* La longitud del gen es de 169286 bp referenciado por [GenBank](https://www.ncbi.nlm.nih.gov/nuccore/NG_009378.1?from=5001&to=174286&report=genbank)
 
 **9.** ¿Cuántas variantes de tu gen hay descritas y qué tipo de variantes son?
 
@@ -100,7 +100,8 @@
 
 **19.** ¿Con qué otra(s) ruta(s) se cruza la ruta metabólica que escogiste?
 
-*-*
+*-* Se Cruza con la  Rna Polimerasa, Proteosoma, Fosforilacion oxidativa, Apoptosis, Factores de transcripcion basales, 	
+Sinapsis glutamatergica, Via de señalizacion del calcio, Via de señalizacion de p53.
 
 **20.** ¿Cuáles son las principales ontologías o dominios que conforman Gene Ontology?
 
@@ -160,7 +161,7 @@
 
 **28.** Adjunta la secuencia en formato NEXUS a tu informe.
 
-*-* Secuencia [Nexus](https://github.com/CamilaFrancisca/Laboratorio/blob/master/sequence%20nexus.txt)
+*-* Secuencia [Nexus](https://www.ebi.ac.uk/Tools/services/rest/emboss_seqret/result/emboss_seqret-I20180807-023934-0861-44862950-p1m/out)
 
 ---
 
