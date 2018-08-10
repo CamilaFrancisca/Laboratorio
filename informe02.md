@@ -4,13 +4,18 @@
 
 **1.** ¿Qué función cumple el gen SRY?
 
+*-* Transcriptional regulator that controls a genetic switch in male development [UniProt/TrEMBL](https://www.uniprot.org/uniprot/A7WPU8)
+
 **2.** ¿Cuántos genes ortólogos están anotados en esa base de datos?
+
+*-* 28 organisms have orthologs with human gene SRY
 
 ### Parte 2: Alineamiento múltiple
 
 ---
 
 **3.** ¿Qué es el EMBL-EBI?
+
 
 **4.** ¿Cuál es el programa que ellos ofrecen que funciona mejor para secuencias de proteínas?
 
