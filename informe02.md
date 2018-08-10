@@ -37,11 +37,15 @@
 
 **8.** ¿Cuál es la longitud total del alineamiento?
 
-*-*
+*-* 1930 pb es la longitud de alineamiento
 
 **9.** ¿Cuál es la especie cuyo gen SRY está más relacionado con el gen SRY de humanos?
 
+*-* XM_023199586.1 0.00133
+
 **10.** ¿Cuál es el más lejano?
+
+*-* 
 
 **11.** ¿Cuál es la especie cuyo gen SRY es más cercana a la del burro?
 
