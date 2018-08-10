@@ -10,22 +10,34 @@
 
 *-* 28 organisms have orthologs with human gene SRY
 
+*-* Secuencia Fasta de todos los ortòlogos del gen  [SRY](https://github.com/CamilaFrancisca/Laboratorio/blob/master/Fasta02.fasta)
+
 ### Parte 2: Alineamiento múltiple
 
 ---
 
 **3.** ¿Qué es el EMBL-EBI?
 
+*-*
 
 **4.** ¿Cuál es el programa que ellos ofrecen que funciona mejor para secuencias de proteínas?
 
+*-* MUSCLE stands for MUltiple Sequence Comparison by Log- Expectation. MUSCLE is claimed to achieve both better average accuracy and better speed than ClustalW2 or T-Coffee, depending on the chosen options.
+
+
 **5.** ¿Qué otros tipo de herramientas ofrece EMBL-EBI? 
 
-**6.** ¿Cuál es el costo de abrir un gap? 
+**6.** ¿Cuál es el costo de abrir un gap?
+
+*-* Gap Open 1.53 [MAFFET](https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=mafft-I20180810-153305-0272-23252617-p2m&analysis=details)
 
 **7.** ¿Cuál es el costo de extender un gap?
 
+*-* Gap Extension 0.123 [MAFFET](https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=mafft-I20180810-153305-0272-23252617-p2m&analysis=details)
+
 **8.** ¿Cuál es la longitud total del alineamiento?
+
+*-*
 
 **9.** ¿Cuál es la especie cuyo gen SRY está más relacionado con el gen SRY de humanos?
 
