@@ -36,7 +36,7 @@
 
 **15.** Prueba lo mismo, pero esta vez **disminuyendo al mínimo el costo de extender un gap**. Describe cómo cambia el alineamiento.
 
-#### Parte 3: Diseño de partidores
+### Parte 3: Diseño de partidores
 
 ---
 
