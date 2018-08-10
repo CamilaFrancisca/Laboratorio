@@ -37,26 +37,36 @@
 
 **8.** ¿Cuál es la longitud total del alineamiento?
 
-*-* 1930 pb es la longitud de alineamiento
+*-* 1942 pb es la longitud de alineamiento
 
 **9.** ¿Cuál es la especie cuyo gen SRY está más relacionado con el gen SRY de humanos?
 
-*-* XM_023199586.1 0.00133
+*-* SRY_Piliocolobus_tephrosceles 0.00135
 
 **10.** ¿Cuál es el más lejano?
 
-*-* 
+*-* SRY_Bos_indicus 0.00109, SRY_Bison_bison 0.00326
 
 **11.** ¿Cuál es la especie cuyo gen SRY es más cercana a la del burro?
 
+*-* 
+
 **12.** ¿Cómo esperas que sea el alineamiento si el costo de abrir un gap aumenta? ¿Y si disminuye?
+
+*-* 
 
 **13.** ¿Cómo esperas que sea el alineamiento si el costo de extender un gap aumenta? ¿Y si disminuye?
 
+*-* 
+
 **14.** ¿Cuál fue el efecto de aumentar el costo de abrir un gap en la longitud total del alineamiento? 
+
+*-* se genera mejor alineacion entre la secuencia consenso ya que al aumentar el valor del gap se prefiere extender un gap por su numero de penalizacion 
 
 **15.** Prueba lo mismo, pero esta vez **disminuyendo al mínimo el costo de extender un gap**. Describe cómo cambia el alineamiento.
 
+*-* 
+ 
 ### Parte 3: Diseño de partidores
 
 ---
