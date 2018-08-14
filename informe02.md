@@ -18,7 +18,7 @@
 
 **3.** ¿Qué es el EMBL-EBI?
 
-*-* 
+*-*  Es un instituto de bioinformatica el cual proporciona datos biologicos abiertos, software de código abiertos, herramientas analíticas gratuitamente.
 
 **4.** ¿Cuál es el programa que ellos ofrecen que funciona mejor para secuencias de proteínas?
 
@@ -26,7 +26,7 @@
 
 **5.** ¿Qué otros tipo de herramientas ofrece EMBL-EBI? 
 
-*-* 
+*-* Ofrece alineamiento se seuencias, similitud de secuencias, mapeos ,comparaciones; todo esto en base a ADN, RNA, proteinas, estructuras, biologia quimica, ontologias, dominios cruzados. [EMBL-EBI](https://www.ebi.ac.uk/services/all)
 
 **6.** ¿Cuál es el costo de abrir un gap?
 
@@ -42,15 +42,15 @@
 
 **9.** ¿Cuál es la especie cuyo gen SRY está más relacionado con el gen SRY de humanos?
 
-*-* SRY_Piliocolobus_tephrosceles 0.00135
+*-* Piliocolobus tephrosceles.
 
 **10.** ¿Cuál es el más lejano?
 
-*-* SRY_Bos_indicus 0.00109, SRY_Bison_bison 0.00326
+*-* Bos indicus, Bison bison.
 
 **11.** ¿Cuál es la especie cuyo gen SRY es más cercana a la del burro?
 
-*-* SRY_Equus_przewalskii 0.00075
+*-* Equus przewalskii.
 
 **12.** ¿Cómo esperas que sea el alineamiento si el costo de abrir un gap aumenta? ¿Y si disminuye?
 
@@ -62,12 +62,12 @@
 
 **14.** ¿Cuál fue el efecto de aumentar el costo de abrir un gap en la longitud total del alineamiento? 
 
-*-* Se genera mejor alineacion entre la secuencia consenso ya que al aumentar el valor del gap se prefiere extender un gap por su numero de penalizacion. 
+*-* . 1895
 
 **15.** Prueba lo mismo, pero esta vez **disminuyendo al mínimo el costo de extender un gap**. Describe cómo cambia el alineamiento.
 
-*-* 
- 
+*-* Se genera un amuneto en el alineamiento de conseso por lo cual la secuencia es mas homologa. 1989
+
 ### Parte 3: Diseño de partidores
 
 ---
@@ -96,12 +96,12 @@
 
 **17.** Indica los partidores _forward_ y _reverse_ que escogiste y explica por qué son la mejor opción para amplificar el gen SRY de humano. 
 
-**Primer ..** _forward_ LEFT PRIMER .....
+**Primer 2** _forward_ LEFT PRIMER GGATAGAGTGAAGCGACCCA
 
-**Primer ..** _reverse_ RIGHT PRIMER .....
+**Primer 2** _reverse_ RIGHT PRIMER TTTCTCTCTGTGCATGGCCT
 
-*-* Ocuparia el partidor...  de la lista ya que posee un menor porcentaje de GC en comparacion con los otros partidores, el cual indica que al elongar la doble hebra de DNA sera mas facil de separarla a simple hebra. Tambien posee major tamaño de nucleotidos que seran alineados; por otro lado la temperatura para que el amplicon se una a la hebra (alineamiento) es un poco mejor en comparacion con los otros partidores.  
+*-* Ocuparia el partidor 2 de la lista ya que posee un menor porcentaje de GC en comparacion con los otros partidores, el cual indica que al elongar la doble hebra de DNA sera mas facil de separarla a simple hebra. Por otra parte el partidor 2 posee mas nucleotidos, el cual lo hace mas especifo que el partidor 0 ya que al igual que el partidor 2 posse el mismo porcentaje de GC. 
 
 **18.** ¿Cuál es el largo del amplicón? ¿Y la temperatura de _annealing_ sugerida?
 
-*-* El largo del amplicon es de 19. nucleotidos y su teperatura de alineamiento es de 54°C
+*-* El largo del amplicon es de 199 nucleotidos y su teperatura de alineamiento es de 54°C.
