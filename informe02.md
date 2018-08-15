@@ -48,11 +48,11 @@
 
 *-* Bos indicus, Bison bison.
 
-*-* Arbol Filogenetico Gen SRY ![Arbol](https://github.com/CamilaFrancisca/Laboratorio/blob/master/SRY%20Arbol.png); basados en datos de MAFFET 
-
 **11.** ¿Cuál es la especie cuyo gen SRY es más cercana a la del burro?
 
 *-* Equus przewalskii.
+
+*-* Arbol Filogenetico Gen SRY; basados en datos de MAFFET. ![Arbol](https://github.com/CamilaFrancisca/Laboratorio/blob/master/SRY%20Arbol.png)
 
 **12.** ¿Cómo esperas que sea el alineamiento si el costo de abrir un gap aumenta? ¿Y si disminuye?
 
