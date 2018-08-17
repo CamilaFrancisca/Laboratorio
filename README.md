@@ -4,6 +4,6 @@
 
 **[Informe N°2](https://github.com/CamilaFrancisca/Laboratorio/blob/master/informe02.md)**
 
-**Informe N°3**
+**[Informe N°3](https://github.com/CamilaFrancisca/Laboratorio/blob/master/informe3.md)**
 
 **Informe N°4**
