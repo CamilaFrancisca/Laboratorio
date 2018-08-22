@@ -52,16 +52,22 @@
 **11.** Describe los resultados obtenidos. ¿Cuántos ORFs o genes encontró ORFfinder? ¿En qué hebra están codificados? ¿De qué largo son los ORFs predichos? ¿Algunos de ellos se sobreponen (fíjate en la posición de inicio [_start_] y término [_stop_])? 
 
 *-* Se encontraron 7 ORFs.
+
 *-* En la hebra continua se encuentran los ORFs 1-2-3 y en la hebra discontinua se encuentran los ORFs 4-5-6-7.
+
 *-* El largo de los ORFs son:
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|  ORFs  | Largo (nt) | 
+| -------|:----------:| 
+|   1    |     909    | 
+|   2    |      78    |  
+|   3    |      99    |
+|   4    |     441    |
+|   5    |     405    |
+|   6    |      84    |
+|   7    |     144    |
 
-https://www.ncbi.nlm.nih.gov/orffinder/
+*-* 
 
 **12.** ¿Qué tipo de programa es ORFfinder, _Ab initio_ o por homología?
 
