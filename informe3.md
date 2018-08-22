@@ -54,6 +54,7 @@
 *-* Se encontraron 7 ORFs.
 *-* En la hebra continua se encuentran los ORFs 1-2-3 y en la hebra discontinua se encuentran los ORFs 4-5-6-7.
 *-* El largo de los ORFs son:
+
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
