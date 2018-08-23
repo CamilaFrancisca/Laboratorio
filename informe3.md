@@ -4,13 +4,13 @@
 
 **1.** ¿Cuántos _Sequencing Projects_ y _Analysis Projects_ hay depositados en GOLD? ¿Cuál es la diferencia entre ambos?
 
-*-* Hay 215.124 proyectos de secuencias y 174.491 de proyectos de analisis
+*-* Hay 215.124 proyectos de secuencias y 174.491 de proyectos de analisis a la fecha del 17/08/18
 
 *-* El proyecto de secuenciacion esta dirigido al tipo de organismo o muestra que se secuenciara en cambio un proyecto de analisis esta dirigido al procesamiento informatico de un proyectoo de secuenciacion.
 
 **2.** ¿Cuál es el dominio más representado en la base de datos, _archea_, _bacteria_, _eukaryote_, o _virus_?
 
-*-* El dominio mas representado es la bacteria con 276.030
+*-* El dominio mas representado es la bacteria con 276.030 a la fecha del 17/08/18
 
 **3.** ¿Cuáles son los _phyla_ más representados entre los proyectos de genomas bacterianos en la base de datos?
 
@@ -32,11 +32,12 @@
 
 **6.** Explica, qué es el N50, L50, y NG50.
 
-*-* 
+*-* Para poder comprender los conceptos mencionados, es importante definir lo que es un Contig; esto corresponde a segmentos de ADN superpuestos, que juntos representan una región consenso de ADN.
+El valor N50 se define como la longitud del contig tal que la mitad del ensamblaje está constituida por contings de longitud igual o superior a dicho valor, y el valor L50 se define como el número de contigs de longitud igual o superior a la del contig N50. De manera similar se define el valor NG50, que toman como referencia el tamaño conocido del genoma en lugar de la longitud total de la secuencia ensamblada.
 
 **7.** ¿Cuál es el propósito de calcular estas estadísticas?
 
-*-*
+*-* Con el uso de estos valores estadísticos se intentan evitar los peligros inherentes a depender del tamaño medio del genoma para definir otros parámetros.
 
 **8.** ¿Cuántos _contigs_ conforman el genoma del Bonobo? ¿Cuál es el N50 y L50 del genoma? (responde basado en los _contigs_)
 
