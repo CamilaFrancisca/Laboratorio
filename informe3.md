@@ -6,7 +6,7 @@
 
 *-* Hay 215.124 proyectos de secuencias y 174.491 de proyectos de analisis
 
-*-* El proyecto de secuenciacion es el organismo individual o muestra que esta dirigido para la secuenciacion y un proyecto de analisis esta dirigido al procesamiento informatico de un proyectoo de secuenciacion.
+*-* El proyecto de secuenciacion esta dirigido al tipo de organismo o muestra que se secuenciara en cambio un proyecto de analisis esta dirigido al procesamiento informatico de un proyectoo de secuenciacion.
 
 **2.** ¿Cuál es el dominio más representado en la base de datos, _archea_, _bacteria_, _eukaryote_, o _virus_?
 
@@ -14,7 +14,7 @@
 
 **3.** ¿Cuáles son los _phyla_ más representados entre los proyectos de genomas bacterianos en la base de datos?
 
-*-* Los phila mas represntativos son medicina, ambiente, agricultura, evlucion, patogenos, patogenos humanos, humano, microbiomas, proyectos, otros.
+*-* Los phila mas representativos son medicina, ambiente, agricultura, evlucion, patogenos, patogenos humanos, humano, microbiomas, proyectos, otros.
 
 **4.** ¿A qué tipo de proyectos pertenece la mayor cantidad de genomas bacterianos depositados en GOLD? (tipo de proyecto, se refiere al tópico de la investigación, por ejemplo, salud humana, ambiental, etc).
 
@@ -23,7 +23,8 @@
 **5.** ¿Cuál es el artículo original del genoma? (en el cual se reporta la sequenciación y ensamble del genoma)
 
 *-* El articulo original del genoma  tiene como nombre *The bonobo genome compared with the chimpanzee and human genomes*.
-*-* Link al ariculo original. [PAPER](https://www.ncbi.nlm.nih.gov/pubmed/22722832) 
+
+*-* Link al ariculo original [aquí](https://www.ncbi.nlm.nih.gov/pubmed/22722832) 
 
 **6.** Explica, qué es el N50, L50, y NG50.
 
@@ -39,7 +40,7 @@
 
 **9.** ¿Cuál es el largo total y porcentaje de GC del genoma del Bonobo? ¿Qué quieren decir o qué indican éstos valores?
 
-*-* Largo total 3286.64 Mb del genoma y su porcnetaje de GC es  42.3185.
+*-* Largo total 3286.64 Mb del genoma y su porcentaje de GC es  42.3185.
 
 **10.** ¿Qué tipo de tecnología se uso para secuenciar el genoma del Bonobo? ¿Qué método (programa o algorítmo bioinformático) se usó para ensamblar el genoma?
 
@@ -49,7 +50,7 @@
 
 ---
 
-**11.** Describe los resultados obtenidos. ¿Cuántos ORFs o genes encontró ORFfinder? ¿En qué hebra están codificados? ¿De qué largo son los ORFs predichos? ¿Algunos de ellos se sobreponen (fíjate en la posición de inicio [_start_] y término [_stop_])? 
+**11.** Describe los resultados obtenidos. ¿Cuántos ORFs o genes encontró ORFfinder? ¿En qué hebra están codificados? ¿De qué largo son los ORFs predichos? ¿Algunos de ellos se sobreponen? 
 
 *-* Se encontraron 7 ORFs.
 
@@ -59,15 +60,15 @@
 
 |  ORFs  | Largo (nt) | 
 | -------|:----------:| 
-|   1    |     909    | 
-|   2    |      78    |  
-|   3    |      99    |
-|   4    |     441    |
-|   5    |     405    |
-|   6    |      84    |
-|   7    |     144    |
+|    1   |     909    | 
+|    2   |      78    |  
+|    3   |      99    |
+|    4   |     441    |
+|    5   |     405    |
+|    6   |      84    |
+|    7   |     144    |
 
-*-* 
+*-* Se sobreponen los ORFs 2-3-6-7
 
 **12.** ¿Qué tipo de programa es ORFfinder, _Ab initio_ o por homología?
 
@@ -75,7 +76,7 @@
 
 **13.** ¿A qué organismo pertenece la secuencia en cuestión?
 
-*-* Haemophilus influenzae  buscar organism,o
+*-* La secuencia pertenece al arganismo Haemophilus influenzae.
 
 **14.** ¿Qué gen(s) está(n) codificados en la secuencia?
 
