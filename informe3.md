@@ -86,7 +86,7 @@ El valor N50 se define como la longitud del contig tal que la mitad del ensambla
 **14.** ¿Qué gen(s) está(n) codificados en la secuencia?
 
 *-* Los genes codificados son *FdhE superfamily*, *NAT_SF superfamily*, *DNA_II_psi superfamily*
-![IMAGEN]()
+![IMAGEN](https://github.com/CamilaFrancisca/Laboratorio/blob/master/gen.png)
 
 **15.** Tomando en cuenta la evidencia que acumulaste usando ORFfinder y BLAST. ¿Cuál o cuáles ORFs predichos por ORFfinder dirías tú que son o es el correcto(s)?
 
