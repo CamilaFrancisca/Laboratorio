@@ -20,7 +20,8 @@
 
 *-* Medicina, datos referenciados por [Gold]()
 
-*-* Imagen de complemento para la pregunta N°3 y N°4 ![gold] (https://github.com/CamilaFrancisca/Laboratorio/blob/master/Grafico%20info3.png)
+*-* Imagen de complemento para la pregunta N°3 y N°4  
+![gold](https://github.com/CamilaFrancisca/Laboratorio/blob/master/Grafico%20info3.png)
 
 
 **5.** ¿Cuál es el artículo original del genoma? (en el cual se reporta la sequenciación y ensamble del genoma)
