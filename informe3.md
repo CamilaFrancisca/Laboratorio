@@ -28,7 +28,7 @@
 
 *-* El articulo original del genoma  tiene como nombre *The bonobo genome compared with the chimpanzee and human genomes*.
 
-*-* Link al ariculo original [aquí](https://www.ncbi.nlm.nih.gov/pubmed/22722832) 
+*-* Link al articulo original [aquí](https://www.ncbi.nlm.nih.gov/pubmed/22722832) 
 
 **6.** Explica, qué es el N50, L50, y NG50.
 
