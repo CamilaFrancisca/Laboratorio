@@ -22,6 +22,9 @@
 *-* Filogenia N°1: 
 ![](https://github.com/CamilaFrancisca/Laboratorio/blob/master/Prob%20curado.png)
 
+*-* Filogenia N°2:
+![](https://github.com/CamilaFrancisca/Laboratorio/blob/master/clustal%20curado.png)
+
 **5.** ¿A qué se refiere el paso de _Alignment curation_ y para qué sirve? 
 
 *-*Después de la alineación, las regiones ambiguas (es decir, que contienen huecos y / o mal alineados) se eliminaron con Gblocks (v0.91b) utilizando los siguientes parámetros: 
