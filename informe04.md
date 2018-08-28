@@ -19,7 +19,8 @@
 
 **4.** Incluye en tu informe una captura de pantalla de las dos filogenias que inferiste. Recuerda que tu nombre completo debe aparecer en la imagen de cada filogenia.
 
-*-*
+*-* Filogenia N°1: 
+![](https://github.com/CamilaFrancisca/Laboratorio/blob/master/Prob%20curado.png)
 
 **5.** ¿A qué se refiere el paso de _Alignment curation_ y para qué sirve? 
 
