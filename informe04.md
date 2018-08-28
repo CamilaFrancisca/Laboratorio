@@ -3,15 +3,15 @@
 
 **1.** ¿Qué ofrece o para qué sirve el portal Phylogeny.fr? 
 
-*-* Phylogeny.fr es un servicio web gratuito y fácil de usar dedicado a reconstruir y analizar las relaciones filogenéticas entre secuencias moleculares. Phylogeny.fr ejecuta y conecta varios programas bioinformáticos para reconstruir un árbol filogenético robusto a partir de un conjunto de secuencias .
+*-* Phylogeny.fr es un servicio web gratuito y fácil de usar dedicado a reconstruir y analizar las relaciones filogenéticas entre secuencias moleculares. Ejecuta y conecta varios programas bioinformáticos para reconstruir un árbol filogenético robusto a partir de un conjunto de secuencias .
 
 **2.** Nombra y explica brevemente los 3 modos en los que se puede ejecutar el pipeline de Phylogeny.fr.
 
-*-* "Un click" Pegue su conjunto de secuencias y deje que el software tome decisiones en su nombre (cada paso está optimizado para sus datos).
+*-* One Click: Se dirige a los usuarios que no desean ocuparse de la selección de programas y parámetros. Por defecto, la canalización ya está configurada para ejecutarse y conectar programas reconocidos por su precisión y velocidad ( MUSCLE para alineación múltiple y PhyML para filogenia) para reconstruir un árbol filogenético robusto a partir de un conjunto de secuencias.
 
-*-* "Avanzado" Establecer manualmente los parámetros para los diversos pasos.
+*-* Advanced mode: El servidor de Phylogeny.fr propone la sucesión de los mismos programas, pero los usuarios pueden elegir los pasos a realizar (alineación de secuencia múltiple, reconstrucción filogenética, dibujo de árbol) y las opciones de cada programa.
 
-*-* "A la carta" Cree su propio flujo de trabajo de filogenia usando más programas disponibles.
+*-* A la carte: ofrece la posibilidad de ejecutar y probar más programas de alineación y filogenia.
 
 **3.** Menciona qué tipos de análsis se pueden realizar en el portal de acuerdo a la documentación.
 
