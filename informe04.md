@@ -19,10 +19,10 @@
 
 **4.** Incluye en tu informe una captura de pantalla de las dos filogenias que inferiste. Recuerda que tu nombre completo debe aparecer en la imagen de cada filogenia.
 
-*-* Filogenia N°1: 
+*-* Filogenia N°1: ProbCons, GBlocks, MrBayes, y TreeDyn.
 ![](https://github.com/CamilaFrancisca/Laboratorio/blob/master/Prob%20curado.png)
 
-*-* Filogenia N°2:
+*-* Filogenia N°2: ClustalW, Remove positions with gaps, TNT, y TreeDyn.
 ![](https://github.com/CamilaFrancisca/Laboratorio/blob/master/clustal%20curado.png)
 
 **5.** ¿A qué se refiere el paso de _Alignment curation_ y para qué sirve? 
@@ -46,7 +46,12 @@ BIONJ es muy adecuado para distancias estimadas a partir de secuencias de ADN o 
 
 **7.** Incluye en tu informe una captura de pantalla de las dos filogenias que inferiste.
 
-*-*
+*-* Filogenia N°1: ProbCons, MrBayes, y TreeDyn.
+![](https://github.com/CamilaFrancisca/Laboratorio/blob/master/prob%20no%20curado.png)
+
+*-* Filogenia N°2: ClustalW, TNT, y TreeDyn.
+![](https://github.com/CamilaFrancisca/Laboratorio/blob/master/clustal%20no%20curado.png)
+
 
 **8.** ¿Cuál es el efecto de no hacer la curación del alineamiento en las filogenias?
 
