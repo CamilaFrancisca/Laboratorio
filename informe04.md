@@ -47,9 +47,11 @@ BIONJ es muy adecuado para distancias estimadas a partir de secuencias de ADN o 
 **7.** Incluye en tu informe una captura de pantalla de las dos filogenias que inferiste.
 
 *-* Filogenia N°1: ProbCons, MrBayes, y TreeDyn.
+
 ![](https://github.com/CamilaFrancisca/Laboratorio/blob/master/prob%20no%20curado.png)
 
 *-* Filogenia N°2: ClustalW, TNT, y TreeDyn.
+
 ![](https://github.com/CamilaFrancisca/Laboratorio/blob/master/clustal%20no%20curado.png)
 
 
