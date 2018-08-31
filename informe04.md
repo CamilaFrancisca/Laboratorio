@@ -50,6 +50,7 @@
 
 **9.** Describe las diferencias entre las filogenias que has estimado (4 en total): cantidad de grupos monofiléticos, relaciones que potencialmente cambiaron, etc.
 
-*-* Filogenia 1:Se generaban 5 monofilogenias y al sacar el curamiento cambian a 6 monofilogenias , Un ejemplo seria Equus asinus con equus przewalkii, se generaba por 9 eventos de duplicacion y al no estar curado estas especies se generan despues de 18 eventos de duplicaciones, lo cual al no realizar la curacion de en la filogenia generan arboles muy ditintos alterando lo eventos de duplicacion o especiacion de los diversos organismos.
+*-* Filogenia 1: Se generaban 4 monofilogenias y al sacar el curamiento cambian a 6 monofilogenias, Un ejemplo seria Marmota marmota se genera por 1 evento de especiacion y al no estar curado es generado or 4 eventos de especiacion.
 
-*-* Filogenia 2: Se generaban 4 monofilogenias y al sacar el curamiento cambian a 4 monofilogenias, 
+*-* Filogenia 2: Se generaban 4 monofilogenias y al sacar el curamiento cambian a 2 monofilogenias , Un ejemplo seria Equus asinus con equus przewalkii, se generaba por 9 eventos de duplicacion y al no estar curado estas especies se generan despues de 18 eventos de duplicaciones.
+*-* En conclusion al no realizar la curacion de en la filogenia generan arboles muy ditintos alterando lo eventos de duplicacion o especiacion de los diversos organismos, tambien el grado de divergencia cambia drasticamnete (escala).
