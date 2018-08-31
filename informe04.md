@@ -31,14 +31,7 @@
 
 **6.** ¿Cuál es la diferencia entre BioNJ y Neighbor?
 
-*-* BIONJ: una versión mejorada del algoritmo NJ basado en un modelo simple de datos de secuencia.
-Gascuel O. Biología Molecular y Evolución. 1997 14: 685 - 695. 
-
-Por favor cite ESTOS documentos si usa BIONJ.
-Un algoritmo de reconstrucción de filogenia basado en la distancia
-BIONJ es muy adecuado para distancias estimadas a partir de secuencias de ADN o proteínas. BIONJ tiene una mejor precisión topológica que NJ en todas las condiciones evolutivas; su superioridad se vuelve importante cuando las tasas de sustitución son altas y varían entre linajes. Sin embargo, los árboles BIONJ y NJ a menudo son cercanos o idénticos, especialmente cuando el número de taxones es bajo. BIONJ conserva la velocidad de NJ y se puede aplicar a conjuntos de datos muy grandes (> 1000 taxones). BIONJ se puede ejecutar en varias matrices para construir árboles bootstrap. Como de costumbre, las distancias deben corregirse, por ejemplo, usando DNADIST o PROTDIST de PHYLIP.
-
-*-* 
+*-* BIONj es una versión mejorada del algoritmo NJ basado en un modelo simple de datos de secuencia. Un algoritmo de reconstrucción de filogenia basado en la distancia, adecuado para distancias estimadas a partir de secuencias de ADN o proteínas. Tambien tiene una mejor precisión topológica que NJ en todas las condiciones evolutivas; Sin embargo, los árboles BIONJ y NJ a menudo son cercanos o idénticos, especialmente cuando el número de taxones es bajo.
 
 **7.** Incluye en tu informe una captura de pantalla de las dos filogenias que inferiste.
 
@@ -53,7 +46,7 @@ BIONJ es muy adecuado para distancias estimadas a partir de secuencias de ADN o 
 
 **8.** ¿Cuál es el efecto de no hacer la curación del alineamiento en las filogenias?
 
-*-*
+*-* Al no realizar la curacion se generan divergencias filogeneticas muy grandes afectando a los grupos monofileticos, la escala de estimacion de distancia en alos, lo nodos de las diversas especies; En general genera una filogenia distinta al no estar curada.
 
 **9.** Describe las diferencias entre las filogenias que has estimado (4 en total): cantidad de grupos monofiléticos, relaciones que potencialmente cambiaron, etc.
 
