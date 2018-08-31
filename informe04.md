@@ -27,11 +27,7 @@
 
 **5.** ¿A qué se refiere el paso de _Alignment curation_ y para qué sirve? 
 
-*-*Después de la alineación, las regiones ambiguas (es decir, que contienen huecos y / o mal alineados) se eliminaron con Gblocks (v0.91b) utilizando los siguientes parámetros: 
-- longitud mínima de un bloque después de la limpieza de huecos: 10 - no 
-se permitieron huecos en la alineación final 
--todos los segmentos con posiciones contiguas no conservadas mayores de 8 fueron rechazados 
--número mínimo de secuencias para una posición de flanco: 85%
+*-* Se refiere a las regiones ambiguas o gaps (que contienen huecos y / o mal alineados), que pueden ser eliminadas por dos metodos (Gblocks Remove positions with gaps) los cuales utilizan diversos parametros para remover dichos gaps.
 
 **6.** ¿Cuál es la diferencia entre BioNJ y Neighbor?
 
