@@ -46,7 +46,7 @@
 
 **8.** ¿Cuál es el efecto de no hacer la curación del alineamiento en las filogenias?
 
-*-* Al no realizar la curacion se generan divergencias filogeneticas muy grandes afectando a los grupos monofileticos, la escala de estimacion de distancia en alos, lo nodos de las diversas especies; En general genera una filogenia distinta al no estar curada.
+*-* Al no realizar la curacion se generan divergencias filogeneticas muy grandes afectando a los grupos monofileticos, la escala de estimacion de distancia, en los nodos de las diversas especies; En general genera una filogenia distinta al no estar curada.
 
 **9.** Describe las diferencias entre las filogenias que has estimado (4 en total): cantidad de grupos monofiléticos, relaciones que potencialmente cambiaron, etc.
 
